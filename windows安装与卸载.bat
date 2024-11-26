@@ -15,7 +15,7 @@ echo. 2. 卸载插件
 echo. 3. 退出
 echo.
 
-SET /P choice=请输入您的选择（1、2或3）：
+SET /P choice=请输入您的选择（1、2或3）：1
 
 
 if "%choice%"=="1" (
